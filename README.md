@@ -1,3 +1,11 @@
+# 250704
+Production Deployment
+The deployment that is live on your production domains.
+Logs
+Domains
+skyblue-gemini-202507.deno.dev
+skyblue-gemini-202507-x2mrnn1tsjnh.deno.dev
+
 # Gemini 2.0 代理
 
 使用 Deno 免费代理 Google Gemini，国内直连，不限地区/网络环境，打开即用。
